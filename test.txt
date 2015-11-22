@@ -1,3 +1,3 @@
 rsync -vr --delete --exclude ".git/" /var/lib/jenkins/workspace/progress_useless /var/www/html/
 
-http://www.ymic-it.com:8080/job/progress_useless/build?token=ymic 
+http://www.ymic-it.com:8080/job/progress_useless/build?token=ymic  
