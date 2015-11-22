@@ -1,1 +1,1 @@
-aaaaaaas
+rsync -vr --delete --exclude ".git/" /var/lib/jenkins/workspace/progress _useless /var/www/html/progress_useless
